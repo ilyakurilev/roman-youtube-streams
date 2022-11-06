@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{36424E98-BCE7-4308-9433-EEC8AED9D051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{FE7A45F1-BF4D-4D06-99B2-9997A2621201}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{36424E98-BCE7-4308-9433-EEC8AED9D051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36424E98-BCE7-4308-9433-EEC8AED9D051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36424E98-BCE7-4308-9433-EEC8AED9D051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7A45F1-BF4D-4D06-99B2-9997A2621201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7A45F1-BF4D-4D06-99B2-9997A2621201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7A45F1-BF4D-4D06-99B2-9997A2621201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7A45F1-BF4D-4D06-99B2-9997A2621201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
